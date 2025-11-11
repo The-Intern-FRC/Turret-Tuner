@@ -1,12 +1,1 @@
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-.venv/
-venv/
-dist/
-build/
-reports/*.pdf
-reports/*.txt
-reports/figures/
-notebooks/.ipynb_checkpoints/
+
